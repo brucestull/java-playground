@@ -1,2 +1,1 @@
-# java-playground
-Java playground.
+# Java Playground

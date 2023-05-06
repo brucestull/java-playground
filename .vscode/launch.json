@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AddAThing",
+            "request": "launch",
+            "mainClass": "AddAThing",
+            "projectName": "java-playground_170da1df"
+        },
+        {
+            "type": "java",
+            "name": "PrintTheThing",
+            "request": "launch",
+            "mainClass": "PrintTheThing",
+            "projectName": "java-playground_170da1df"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

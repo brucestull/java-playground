@@ -1,6 +1,6 @@
 public class AddAThing {
     public static void main(String[] args) {
-        Integer anInteger = 1;
+        int anInteger = 1;
         System.out.println(anInteger);
         String aSpace = " ";
         System.out.println(aSpace);

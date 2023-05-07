@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RunIt",
+            "request": "launch",
+            "mainClass": "RunIt",
+            "projectName": "java-playground_170da1df"
+        },
+        {
+            "type": "java",
             "name": "CheckAnArray",
             "request": "launch",
             "mainClass": "CheckAnArray",
